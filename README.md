@@ -1,4 +1,4 @@
-# cmid-scraper-pub
+# CMID Scraper Discord Bot
  
 
 Usage:
